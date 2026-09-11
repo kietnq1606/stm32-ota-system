@@ -1,10 +1,10 @@
 # Kombai
-**/.kombai/**
-**/Debug/**
-**/Debug_A/**
-**/Debug_B/**
-**/Release/**
-**/deploy_app/**
+.kombai/
+**/Debug/
+**/Debug_A/
+**/Debug_B/
+**/Release/
+**/deploy_app/
 *.pem
 **/aes_key.txt
 **/info_broker.txt
