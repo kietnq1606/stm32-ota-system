@@ -1,0 +1,10 @@
+.kombai/
+/Debug/
+/Debug_B/
+/Debug_A/
+/Release/
+/deploy_app/
+*.pem
+*.txt
+/myLib/Drivers/
+/myLib/Aplication/
